@@ -10,7 +10,6 @@ h1{
 }
 h2{
     font-size: 40px;
-    text-align: center;
     color: #363958;
 }
 
@@ -79,28 +78,12 @@ footer p{
 }
 h4{text-align: center;}
 
-}
-* {
-    box-sizing:content-box
+.single-experience{
+    
     box-shadow: 10px 10px 40px gray;
     border-radius: 15px;
     height: 40%;
     background-color: white;
-  }
-  
-  .column {
+    width: 25%;
     float: left;
-    width: 30%;
-    float: left;
-    padding: 10px;
-    height: 300px; 
-    padding: 0px;
-    margin:20px 30px
-    
-  }
-  
-  
-  .row:after {
-    content: "";
-    display: table;
-    clear: both;}
+}
