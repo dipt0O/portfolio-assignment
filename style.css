@@ -7,6 +7,7 @@ h1{
     font-size: 80px;
     line-height: 10px;
     color: #363958;
+
 }
 h2{
     font-size: 40px;
@@ -81,7 +82,34 @@ footer p{
     background-repeat: no-repeat;
     background-position: center;
     background-size:1200px 200px;
-    position: relative;
+    
+
+
 
 }
 
+
+
+
+.white-button{
+    color: white;
+padding-left: 320px;
+padding-top: 400px;}
+
+#button-chat{
+   padding-left: 1250px;
+
+   
+   
+}
+
+.link-button1{
+    text-decoration: none;
+    background-image: linear-gradient(orangered,tomato);
+    padding: 10px 20px;
+    border-radius:10px;
+    color: white;
+    font-size: 20px;
+
+
+}
